@@ -1,5 +1,7 @@
 # python-oop
 
+[![tests](https://github.com/qweakside/python-oop/actions/workflows/tests.yml/badge.svg)](https://github.com/qweakside/python-oop/actions/workflows/tests.yml)
+
 Учебный репозиторий: прохожу ООП на Python и складываю сюда каждый урок
 как отдельную папку с кодом, тестами и конспектом.
 
