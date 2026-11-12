@@ -1,0 +1,7 @@
+# Приводим переводы строк к одному виду, чтобы диффы не ломались
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
