@@ -16,7 +16,6 @@ python-oop/
 │       ├── mushrooms.py       # код урока
 │       ├── test_mushrooms.py  # тесты
 │       └── notes.md           # конспект своими словами
-├── journal.md                 # дневник: что сделал, где застрял
 ├── requirements.txt
 └── .gitignore
 ```
